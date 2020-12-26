@@ -42,10 +42,9 @@ time_from = time()
 classifier = Classifier()
 st.write(f'classifier loaded in {round(time() - time_from, 4)} seconds')
 
-
 group_1 = st.selectbox('Type of activity', [1, 2, 3])
-group_2 = st.selectbox('Dog proposal', [1, 2, 3])
-male_wt_kg_category = st.selectbox('Dog proposal', [1, 2, 3, 4])
+group_2 = st.selectbox('What is the main Goal of a dog in your life?', [1, 2, 3])
+male_wt_kg_category = st.selectbox('Dog size', [1, 2, 3, 4])
 intelligence = st.select_slider("Intelligence", options=range(1, 80))
 avg_pup_price = st.select_slider("Price", options=range(350, 3001))
 watchdog = st.selectbox("Watchdog", [1, 2, 3, 4, 5, 6])
