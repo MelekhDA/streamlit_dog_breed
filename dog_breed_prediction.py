@@ -89,7 +89,8 @@ st.sidebar.markdown("## About project\n")
 st.sidebar.markdown("*** Many people would like to have a pet in their home. "
                     "But they often face various problems, ranging from the size of "
                     "the apartment and ending with the time that needs to be devoted to it. "
-                    "Also important is the fact of the presence of a large number of breeds and their features. ***")
+                    "Also important is the fact of the presence of a large "
+                    "number of breeds and their features. ***")
 st.sidebar.markdown("*** This project is aimed at simplifying the procedure for choosing a pet. ***")
 st.sidebar.markdown("*** Dogs were considered as pets as an initial stage. "
                     "In the future, the project can be expanded. Please, try :) ***")
@@ -105,7 +106,7 @@ male_wt_kg_category = left_column.selectbox('Weight category', [1, 2, 3, 4], for
 watchdog = right_column.selectbox("Watchdog degree", [1, 2, 3, 4, 5, 6])
 
 intelligence = st.select_slider("Intelligence", options=range(1, 81), value=40)
-avg_pup_price = st.select_slider("Price", options=range(350, 3001, 50), value=1000)
+avg_pup_price = st.select_slider("Price", options=range(300, 3001, 100), value=1000)
 
 data = [group_1, group_2, male_wt_kg_category, intelligence, avg_pup_price, watchdog]
 
