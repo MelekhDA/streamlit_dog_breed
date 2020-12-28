@@ -1,0 +1,459 @@
+Group1,Group2,MaleWtKgCategory,PopularityUS2017,BreedName
+1,1,1,147.0,Affenpinscher
+1,3,1,147.0,Affenpinscher
+2,3,3,93.0,Afghan Hound
+1,1,3,55.0,Airedale Terrier
+1,2,3,55.0,Airedale Terrier
+1,3,3,55.0,Airedale Terrier
+3,1,3,55.0,Airedale Terrier
+3,2,3,55.0,Airedale Terrier
+3,3,3,55.0,Airedale Terrier
+3,1,4,47.0,Akita
+3,2,4,47.0,Akita
+3,1,3,59.0,Alaskan Malamute
+3,3,3,59.0,Alaskan Malamute
+1,1,1,118.0,Spitz
+1,3,1,118.0,Spitz
+1,1,1,126.0,American Hairless Terrier
+1,2,1,126.0,American Hairless Terrier
+1,3,1,126.0,American Hairless Terrier
+3,1,1,126.0,American Hairless Terrier
+3,2,1,126.0,American Hairless Terrier
+3,3,1,126.0,American Hairless Terrier
+1,1,3,83.0,American Staffordshire Terrier
+1,2,3,83.0,American Staffordshire Terrier
+1,3,3,83.0,American Staffordshire Terrier
+3,1,3,83.0,American Staffordshire Terrier
+3,2,3,83.0,American Staffordshire Terrier
+3,3,3,83.0,American Staffordshire Terrier
+2,1,2,167.0,American Water Spaniel
+2,2,2,167.0,American Water Spaniel
+2,3,2,167.0,American Water Spaniel
+3,2,4,86.0,Anatolian Shepherd
+3,1,2,56.0,Cattle Dog
+3,2,2,56.0,Cattle Dog
+1,1,3,17.0,Australian Shepherd
+1,2,3,17.0,Australian Shepherd
+1,3,3,17.0,Australian Shepherd
+3,1,3,17.0,Australian Shepherd
+3,2,3,17.0,Australian Shepherd
+3,3,3,17.0,Australian Shepherd
+1,1,1,137.0,Australian Terrier
+1,2,1,137.0,Australian Terrier
+1,3,1,137.0,Australian Terrier
+3,1,1,137.0,Australian Terrier
+3,2,1,137.0,Australian Terrier
+3,3,1,137.0,Australian Terrier
+3,3,2,84.0,Basenji
+3,3,3,39.0,Basset Hound
+3,3,2,6.0,Beagle
+3,1,2,125.0,Bearded Collie
+3,2,2,125.0,Bearded Collie
+3,1,4,141.0,Beauceron
+3,2,4,141.0,Beauceron
+1,1,1,151.0,Bedlington Terrier
+1,2,1,151.0,Bedlington Terrier
+1,3,1,151.0,Bedlington Terrier
+3,1,1,151.0,Bedlington Terrier
+3,2,1,151.0,Bedlington Terrier
+3,3,1,151.0,Bedlington Terrier
+3,1,3,120.0,Belgian Shepherd Dog Sheepdog
+3,2,3,120.0,Belgian Shepherd Dog Sheepdog
+3,1,3,44.0,Belgian Shepherd Malinois
+3,2,3,44.0,Belgian Shepherd Malinois
+3,1,3,103.0,Belgian Shepherd Tervuren
+3,2,3,103.0,Belgian Shepherd Tervuren
+3,2,4,25.0,Mountain Dog
+1,1,1,46.0,Bichon Frise
+1,3,1,46.0,Bichon Frise
+3,3,4,130.0,Coonhound
+2,1,3,1.0,Labrador Retriever
+2,2,3,1.0,Labrador Retriever
+2,3,3,1.0,Labrador Retriever
+3,2,4,116.0,Black Russian Terrier
+3,3,4,50.0,Bloodhound
+3,3,3,132.0,Bluetick Coonhound
+3,2,4,124.0,Boerboel
+3,1,2,38.0,Border Collie
+3,2,2,38.0,Border Collie
+1,1,1,92.0,Border Terrier
+1,2,1,92.0,Border Terrier
+1,3,1,92.0,Border Terrier
+3,1,1,92.0,Border Terrier
+3,2,1,92.0,Border Terrier
+3,3,1,92.0,Border Terrier
+3,3,4,102.0,Borzoi
+1,1,1,21.0,Boston Terrier
+1,3,1,21.0,Boston Terrier
+3,1,4,85.0,Bouvier des Flanders
+3,2,4,85.0,Bouvier des Flanders
+3,2,3,11.0,Boxer
+2,1,2,98.0,Boykin Spaniel
+2,2,2,98.0,Boykin Spaniel
+2,3,2,98.0,Boykin Spaniel
+3,1,3,127.0,Briard
+3,2,3,127.0,Briard
+3,3,3,127.0,Briard
+2,1,2,26.0,Brittany Spaniel
+2,2,2,26.0,Brittany Spaniel
+2,3,2,26.0,Brittany Spaniel
+1,1,1,94.0,Brussels Griffon
+1,3,1,94.0,Brussels Griffon
+1,1,3,60.0,Bull Terrier
+1,2,3,60.0,Bull Terrier
+1,3,3,60.0,Bull Terrier
+3,1,3,60.0,Bull Terrier
+3,2,3,60.0,Bull Terrier
+3,3,3,60.0,Bull Terrier
+3,2,4,51.0,Bullmastiff
+1,1,1,69.0,Cairn Terrier
+1,2,1,69.0,Cairn Terrier
+1,3,1,69.0,Cairn Terrier
+3,1,1,69.0,Cairn Terrier
+3,2,1,69.0,Cairn Terrier
+3,3,1,69.0,Cairn Terrier
+3,3,2,175.0,Canaan Dog
+3,2,4,37.0,Cane Corso Mastiff
+1,1,1,19.0,Cavalier King Charles Spaniel
+1,3,1,19.0,Cavalier King Charles Spaniel
+2,1,3,43.0,Chesapeake Bay Retriever
+2,2,3,43.0,Chesapeake Bay Retriever
+2,3,3,43.0,Chesapeake Bay Retriever
+1,1,1,32.0,Chihuahua
+1,3,1,32.0,Chihuahua
+1,1,1,79.0,Chinese Crested Dog
+1,3,1,79.0,Chinese Crested Dog
+3,1,3,179.0,Chinook
+3,3,3,179.0,Chinook
+1,1,3,76.0,Chow Chow
+1,3,3,76.0,Chow Chow
+3,3,2,184.0,Cirneco dell'Etna
+2,1,3,140.0,Clumber Spaniel
+2,2,3,140.0,Clumber Spaniel
+2,3,3,140.0,Clumber Spaniel
+2,1,1,29.0,Spaniel
+2,2,1,29.0,Spaniel
+2,3,1,29.0,Spaniel
+3,1,3,40.0,Collie
+3,2,3,40.0,Collie
+3,1,2,68.0,Corgi
+3,2,2,68.0,Corgi
+1,1,1,81.0,Coton de Tulear
+1,3,1,81.0,Coton de Tulear
+2,1,3,171.0,Curly-Coated Retriever
+2,2,3,171.0,Curly-Coated Retriever
+2,3,3,171.0,Curly-Coated Retriever
+3,3,1,13.0,Dachshund
+1,1,2,63.0,Dalmatian
+1,3,2,63.0,Dalmatian
+1,1,1,182.0,Dandi Dinmont Terrier
+1,2,1,182.0,Dandi Dinmont Terrier
+1,3,1,182.0,Dandi Dinmont Terrier
+3,1,1,182.0,Dandi Dinmont Terrier
+3,2,1,182.0,Dandi Dinmont Terrier
+3,3,1,182.0,Dandi Dinmont Terrier
+3,2,4,16.0,Doberman Pinscher
+3,2,4,67.0,Dogue de Bordeaux
+1,1,2,5.0,English Bulldog
+1,3,2,5.0,English Bulldog
+2,1,2,52.0,English Cocker Spaniel
+2,2,2,52.0,English Cocker Spaniel
+2,3,2,52.0,English Cocker Spaniel
+3,3,3,178.0,English Coonhound
+2,1,2,113.0,Pointer
+2,2,2,113.0,Pointer
+2,3,2,113.0,Pointer
+2,1,3,95.0,Setter
+2,2,3,95.0,Setter
+2,3,3,95.0,Setter
+2,1,2,27.0,English Springer Spaniel
+2,2,2,27.0,English Springer Spaniel
+2,3,2,27.0,English Springer Spaniel
+1,1,1,134.0,English Toy Spaniel
+1,3,1,134.0,English Toy Spaniel
+3,2,3,152.0,Entlebucher
+2,1,2,145.0,Field Spaniel
+2,2,2,145.0,Field Spaniel
+2,3,2,145.0,Field Spaniel
+3,1,2,173.0,Finnish Lapphund
+3,3,2,173.0,Finnish Lapphund
+1,1,2,177.0,Finnish Spitz
+1,3,2,177.0,Finnish Spitz
+2,1,3,96.0,Flat-coated Retriever
+2,2,3,96.0,Flat-coated Retriever
+2,3,3,96.0,Flat-coated Retriever
+1,1,1,122.0,Fox Terrier
+1,2,1,122.0,Fox Terrier
+1,3,1,122.0,Fox Terrier
+3,1,1,122.0,Fox Terrier
+3,2,1,122.0,Fox Terrier
+3,3,1,122.0,Fox Terrier
+3,3,3,187.0,Hound
+1,1,2,4.0,French Bulldog
+1,3,2,4.0,French Bulldog
+3,1,2,136.0,German Pinscher
+3,2,2,136.0,German Pinscher
+3,3,2,136.0,German Pinscher
+3,1,3,2.0,Shepherd
+3,2,3,2.0,Shepherd
+3,1,3,10.0,German Shorthaired Pointer
+3,2,3,10.0,German Shorthaired Pointer
+3,3,3,10.0,German Shorthaired Pointer
+2,1,3,62.0,German Wirehaired Pointer
+2,2,3,62.0,German Wirehaired Pointer
+2,3,3,62.0,German Wirehaired Pointer
+3,1,3,80.0,Giant Schnauzer
+3,3,3,80.0,Giant Schnauzer
+1,1,2,158.0,Glen of Imaal Terrier
+1,2,2,158.0,Glen of Imaal Terrier
+1,3,2,158.0,Glen of Imaal Terrier
+3,1,2,158.0,Glen of Imaal Terrier
+3,2,2,158.0,Glen of Imaal Terrier
+3,3,2,158.0,Glen of Imaal Terrier
+2,1,3,3.0,Retriever
+2,2,3,3.0,Retriever
+2,3,3,3.0,Retriever
+2,1,3,104.0,Gordon Setter
+2,2,3,104.0,Gordon Setter
+2,3,3,104.0,Gordon Setter
+3,2,4,14.0,Great Dane
+3,2,4,66.0,Great Pyrenees
+3,2,4,75.0,Greater Swiss Mountain Dog
+3,3,3,156.0,Greyhound
+3,3,2,183.0,Harrier
+1,1,1,23.0,Havanese
+1,3,1,23.0,Havanese
+3,1,2,12.0,Husky
+3,3,2,12.0,Husky
+3,3,2,165.0,Ibizan Hound
+2,1,3,72.0,Irish Setter
+2,2,3,72.0,Irish Setter
+2,3,3,72.0,Irish Setter
+1,1,2,114.0,Irish Terrier
+1,2,2,114.0,Irish Terrier
+1,3,2,114.0,Irish Terrier
+3,1,2,114.0,Irish Terrier
+3,2,2,114.0,Irish Terrier
+3,3,2,114.0,Irish Terrier
+2,1,2,164.0,Irish Water Spaniel
+2,2,2,164.0,Irish Water Spaniel
+2,3,2,164.0,Irish Water Spaniel
+3,3,4,73.0,Irish Wolfhound
+1,1,1,74.0,Italian Greyhound
+1,3,1,74.0,Italian Greyhound
+2,1,3,111.0,Italian Spinone
+2,2,3,111.0,Italian Spinone
+2,3,3,111.0,Italian Spinone
+1,1,1,78.0,Jack Russell Terrier
+1,2,1,78.0,Jack Russell Terrier
+1,3,1,78.0,Jack Russell Terrier
+3,1,1,78.0,Jack Russell Terrier
+3,2,1,78.0,Jack Russell Terrier
+3,3,1,78.0,Jack Russell Terrier
+1,1,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+1,2,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+1,3,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+3,1,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+3,2,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+3,3,1,119.0,Jack Russell Terrier (Parson Russell Terrier)
+1,1,1,108.0,Japanese Chin
+1,3,1,108.0,Japanese Chin
+1,1,2,87.0,Keeshond
+1,3,2,87.0,Keeshond
+1,1,2,129.0,Kerry Blue Terrier
+1,2,2,129.0,Kerry Blue Terrier
+1,3,2,129.0,Kerry Blue Terrier
+3,1,2,129.0,Kerry Blue Terrier
+3,2,2,129.0,Kerry Blue Terrier
+3,3,2,129.0,Kerry Blue Terrier
+3,2,4,163.0,Komondor
+3,2,4,157.0,Kuvasz
+1,1,1,138.0,Lakeland Terrier
+1,2,1,138.0,Lakeland Terrier
+1,3,1,138.0,Lakeland Terrier
+3,1,1,138.0,Lakeland Terrier
+3,2,1,138.0,Lakeland Terrier
+3,3,1,138.0,Lakeland Terrier
+3,2,4,100.0,Leonberger
+1,1,1,77.0,Lhasa Apso
+1,3,1,77.0,Lhasa Apso
+1,1,1,169.0,Lowchen
+1,3,1,169.0,Lowchen
+1,1,1,33.0,Maltese
+1,3,1,33.0,Maltese
+1,1,1,135.0,Manchester Terrier
+1,2,1,135.0,Manchester Terrier
+1,3,1,135.0,Manchester Terrier
+3,1,1,135.0,Manchester Terrier
+3,2,1,135.0,Manchester Terrier
+3,3,1,135.0,Manchester Terrier
+3,2,4,28.0,Mastiff
+1,1,1,71.0,Miniature Pinscher
+1,3,1,71.0,Miniature Pinscher
+3,2,4,107.0,Neapolitan Mastiff
+3,2,4,36.0,Newfoundland Dog
+1,1,1,128.0,Norfolk Terrier
+1,2,1,128.0,Norfolk Terrier
+1,3,1,128.0,Norfolk Terrier
+3,1,1,128.0,Norfolk Terrier
+3,2,1,128.0,Norfolk Terrier
+3,3,1,128.0,Norfolk Terrier
+3,1,2,170.0,Norwegian Buhund
+3,3,2,170.0,Norwegian Buhund
+3,1,3,91.0,Norwegian Elkhound
+3,3,3,91.0,Norwegian Elkhound
+1,1,1,190.0,Norwegian Lundehund
+1,3,1,190.0,Norwegian Lundehund
+1,1,1,105.0,Norwich Terrier
+1,2,1,105.0,Norwich Terrier
+1,3,1,105.0,Norwich Terrier
+3,1,1,105.0,Norwich Terrier
+3,2,1,105.0,Norwich Terrier
+3,3,1,105.0,Norwich Terrier
+2,1,2,89.0,Nova Scotia Duck-Tolling Retriever
+2,2,2,89.0,Nova Scotia Duck-Tolling Retriever
+2,3,2,89.0,Nova Scotia Duck-Tolling Retriever
+3,1,3,70.0,Sheep Dog
+3,2,3,70.0,Sheep Dog
+3,3,4,186.0,Otterhound
+1,1,1,53.0,Papillon
+1,3,1,53.0,Papillon
+1,1,1,88.0,Pekingese
+1,3,1,88.0,Pekingese
+3,3,2,160.0,Petit Basset Griffon Vendeen
+3,3,2,174.0,Pharaoh Hound
+3,3,3,166.0,Plott Hound
+3,3,1,159.0,Podengo Portugueso
+3,1,2,176.0,Polish Lowland Sheepdog
+3,2,2,176.0,Polish Lowland Sheepdog
+1,1,1,22.0,Pomeranian
+1,3,1,22.0,Pomeranian
+1,1,3,7.0,Poodle
+1,2,3,7.0,Poodle
+1,3,3,7.0,Poodle
+3,1,2,54.0,Portuguese Water Dog
+3,2,2,54.0,Portuguese Water Dog
+3,3,2,54.0,Portuguese Water Dog
+1,1,1,31.0,Pug
+1,3,1,31.0,Pug
+3,1,2,142.0,Puli
+3,2,2,142.0,Puli
+3,1,2,162.0,Pumi
+3,2,2,162.0,Pumi
+1,1,2,97.0,Rat Terrier
+1,2,2,97.0,Rat Terrier
+1,3,2,97.0,Rat Terrier
+3,1,2,97.0,Rat Terrier
+3,2,2,97.0,Rat Terrier
+3,3,2,97.0,Rat Terrier
+3,3,3,139.0,Redbone Coonhound
+3,3,3,41.0,Rhodesian Ridgeback
+3,2,4,8.0,Rottweiler
+3,2,4,48.0,Saint Bernard
+3,3,2,123.0,Saluki
+3,1,3,57.0,Samoyed
+3,3,3,57.0,Samoyed
+1,1,1,110.0,Schipperke
+1,3,1,110.0,Schipperke
+1,1,1,18.0,Miniature Schnauzer
+1,3,1,18.0,Miniature Schnauzer
+3,1,1,18.0,Miniature Schnauzer
+3,3,1,18.0,Miniature Schnauzer
+3,1,2,90.0,Schnauzer
+3,2,2,90.0,Schnauzer
+3,2,3,80.0,Giant Schnauzer
+3,3,4,168.0,Scottish Deerhound
+1,1,1,58.0,Scottish Terrier Scottie
+1,2,1,58.0,Scottish Terrier Scottie
+1,3,1,58.0,Scottish Terrier Scottie
+3,1,1,58.0,Scottish Terrier Scottie
+3,2,1,58.0,Scottish Terrier Scottie
+3,3,1,58.0,Scottish Terrier Scottie
+1,1,1,150.0,Sealyham Terrier
+1,2,1,150.0,Sealyham Terrier
+1,3,1,150.0,Sealyham Terrier
+3,1,1,150.0,Sealyham Terrier
+3,2,1,150.0,Sealyham Terrier
+3,3,1,150.0,Sealyham Terrier
+1,1,2,64.0,Shar Pei
+1,3,2,64.0,Shar Pei
+3,1,1,24.0,Shetland Sheepdog Sheltie
+3,2,1,24.0,Shetland Sheepdog Sheltie
+1,1,1,45.0,Shiba Inu
+1,3,1,45.0,Shiba Inu
+1,1,1,20.0,Shih Tzu
+1,3,1,20.0,Shih Tzu
+1,1,1,106.0,Silky Terrier
+1,2,1,106.0,Silky Terrier
+1,3,1,106.0,Silky Terrier
+1,1,2,172.0,Skye Terrier
+1,2,2,172.0,Skye Terrier
+1,3,2,172.0,Skye Terrier
+3,1,2,172.0,Skye Terrier
+3,2,2,172.0,Skye Terrier
+3,3,2,172.0,Skye Terrier
+3,3,3,188.0,Sloughi
+1,1,2,82.0,Staffordshire Bull Terrier
+1,2,2,82.0,Staffordshire Bull Terrier
+1,3,2,82.0,Staffordshire Bull Terrier
+3,1,2,82.0,Staffordshire Bull Terrier
+3,2,2,82.0,Staffordshire Bull Terrier
+3,3,2,82.0,Staffordshire Bull Terrier
+2,1,2,161.0,Sussex Spaniel
+2,2,2,161.0,Sussex Spaniel
+2,3,2,161.0,Sussex Spaniel
+3,1,2,149.0,Swedish Vallhund
+3,2,2,149.0,Swedish Vallhund
+1,1,1,42.0,Terrier
+1,2,1,42.0,Terrier
+1,3,1,42.0,Terrier
+3,1,1,42.0,Terrier
+3,2,1,42.0,Terrier
+3,3,1,42.0,Terrier
+3,2,4,153.0,Tibetan Mastiff
+1,1,1,121.0,Tibetan Spaniel
+1,3,1,121.0,Tibetan Spaniel
+1,1,1,101.0,Tibetan Terrier
+1,3,1,101.0,Tibetan Terrier
+1,1,1,112.0,Toy Fox Terrier
+1,2,1,112.0,Toy Fox Terrier
+1,3,1,112.0,Toy Fox Terrier
+3,3,3,131.0,Treeing Walker Coonhound
+2,1,2,30.0,Vizsla
+2,2,2,30.0,Vizsla
+2,3,2,30.0,Vizsla
+2,1,3,34.0,Weimaraner
+2,2,3,34.0,Weimaraner
+2,3,3,34.0,Weimaraner
+3,1,2,68.0,Cardigan
+3,2,2,68.0,Cardigan
+3,1,2,68.0,Pembroke
+3,2,2,68.0,Pembroke
+2,1,2,133.0,Welsh Springer Spaniel
+2,2,2,133.0,Welsh Springer Spaniel
+2,3,2,133.0,Welsh Springer Spaniel
+1,1,1,109.0,Welsh Terrier
+1,2,1,109.0,Welsh Terrier
+1,3,1,109.0,Welsh Terrier
+3,1,1,109.0,Welsh Terrier
+3,2,1,109.0,Welsh Terrier
+3,3,1,109.0,Welsh Terrier
+1,1,2,49.0,Wheaten Terrier
+1,2,2,49.0,Wheaten Terrier
+1,3,2,49.0,Wheaten Terrier
+3,1,2,49.0,Wheaten Terrier
+3,2,2,49.0,Wheaten Terrier
+3,3,2,49.0,Wheaten Terrier
+3,3,2,61.0,Whippet
+1,1,1,99.0,Wire Fox Terrier
+1,2,1,99.0,Wire Fox Terrier
+1,3,1,99.0,Wire Fox Terrier
+3,1,1,99.0,Wire Fox Terrier
+3,2,1,99.0,Wire Fox Terrier
+3,3,1,99.0,Wire Fox Terrier
+2,1,2,65.0,Wire-haired Pointing Griffon
+2,2,2,65.0,Wire-haired Pointing Griffon
+2,3,2,65.0,Wire-haired Pointing Griffon
+1,3,2,143.0,Xoloitzcuintle/Mexican Hairless
+1,1,1,9.0,Yorkshire Terrier Yorkie
+1,3,1,9.0,Yorkshire Terrier Yorkie
