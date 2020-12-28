@@ -45,8 +45,8 @@ def norm_proba_to_predict(array: np.ndarray) -> None:
     array[array >= 0.9] = 1
 
 
-def generate_google_url(dog_breed: str) -> str:
-    return DEFAULT_GOOGLE_URL + '+'.join(dog_breed.split(' '))
+def generate_google_url(dog_breed: str, added_params: str = '&tbm=isch') -> str:
+    return DEFAULT_GOOGLE_URL + '+'.join(dog_breed.split(' ')) + added_params
 
 
 class Classifier:
