@@ -118,7 +118,6 @@ data = [group_1, group_2, male_wt_kg_category, intelligence, avg_pup_price, watc
 dog_breeds = classifier.predict_with_top(data)
 
 if len(dog_breeds) != 0:
-    st.write(', '.join(dog_breeds))
     for dog_breed in dog_breeds:
         st.write(f'[{dog_breed}]({generate_google_url(dog_breed)})')
 else:
