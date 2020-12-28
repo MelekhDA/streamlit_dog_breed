@@ -8,6 +8,7 @@ import pandas as pd
 PATH_MLB = 'models/multi_label_binarizer.pkl'
 PATH_LOGREG = 'models/ovr_logreg.pkl'
 PATH_DF = 'models/df2top.csv'
+DEFAULT_GOOGLE_URL = 'https://www.google.com/search?q='
 
 ACTIVE_DOG = {
     1: 'Have not so much time to train dog',
@@ -42,6 +43,10 @@ def min_max_proba(array: np.ndarray) -> None:
 def norm_proba_to_predict(array: np.ndarray) -> None:
     array[array < 0.9] = 0
     array[array >= 0.9] = 1
+
+
+def generate_google_url(dog_breed: str) -> str:
+    return DEFAULT_GOOGLE_URL + '+'.join(dog_breed.split(' '))
 
 
 class Classifier:
@@ -110,9 +115,11 @@ avg_pup_price = st.select_slider("Price", options=range(300, 3001, 100), value=1
 
 data = [group_1, group_2, male_wt_kg_category, intelligence, avg_pup_price, watchdog]
 
-dog_breed = classifier.predict_with_top(data)
+dog_breeds = classifier.predict_with_top(data)
 
-if len(dog_breed) != 0:
-    st.write(', '.join(dog_breed))
+if len(dog_breeds) != 0:
+    st.write(', '.join(dog_breeds))
+    for dog_breed in dog_breeds:
+        st.write(f'[{dog_breed}]({generate_google_url(dog_breed)})')
 else:
     st.write('**No matching dog breed found**')
